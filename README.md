@@ -1,3 +1,6 @@
+# Hecho por : Daniel Santa Rendón - 1040050021
+#             Daniel Torres González - 1020492000
+
 # Actividades de entrega de los laboratorios
 
 ## Pasos previos
